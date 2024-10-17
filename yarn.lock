@@ -2693,10 +2693,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.7.3":
-  version: 18.7.3
-  resolution: "@types/node@npm:18.7.3"
-  checksum: f51ed436a112235ac068d739b4823090a37b869cc186b64dd5c250dd285139c286990fcbeff2fb3ecba5d605fa885de4275247d332e5b96eafdfbb1da62e3ced
+"@types/node@npm:18.19.56":
+  version: 18.19.56
+  resolution: "@types/node@npm:18.19.56"
+  dependencies:
+    undici-types: ~5.26.4
+  checksum: 2660aa2e50ddb77e4ea4e29e6b917e942ca49ecbd46b6333a7aeffdffafc5d7e48f8a731b6570a61bebdd0ba8dc104a250c432bea00e70aec5a4cb6e6f2df771
   languageName: node
   linkType: hard
 
@@ -12043,7 +12045,7 @@ __metadata:
     "@testing-library/react": 13.3.0
     "@testing-library/user-event": 14.4.3
     "@types/jest": 28.1.8
-    "@types/node": 18.7.3
+    "@types/node": 18.19.56
     "@types/react": 18.0.17
     "@types/react-dom": 18.0.6
     "@types/react-router": 5.1.18
@@ -12286,6 +12288,13 @@ __metadata:
     has-symbols: ^1.0.2
     which-boxed-primitive: ^1.0.2
   checksum: 89d950e18fb45672bc6b3c961f1e72c07beb9640c7ceed847b571ba6f7d2af570ae1a2584cfee268b9d9ea1e3293f7e33e0bc29eaeb9f8e8a0bab057ff9e6bba
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~5.26.4":
+  version: 5.26.5
+  resolution: "undici-types@npm:5.26.5"
+  checksum: 3192ef6f3fd5df652f2dc1cd782b49d6ff14dc98e5dced492aa8a8c65425227da5da6aafe22523c67f035a272c599bb89cfe803c1db6311e44bed3042fc25487
   languageName: node
   linkType: hard
 

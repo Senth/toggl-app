@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/react", "virtual:ff3491ca13c0db64479831213970524da3dedbcb66eeb0f7a842949d3be434a6d7eebdf2fe36744559aa4d3adadecc3d8f13afc0ccc92f26e1fc5880a2d76a92#npm:13.3.0"],\
             ["@testing-library/user-event", "virtual:ff3491ca13c0db64479831213970524da3dedbcb66eeb0f7a842949d3be434a6d7eebdf2fe36744559aa4d3adadecc3d8f13afc0ccc92f26e1fc5880a2d76a92#npm:14.4.3"],\
             ["@types/jest", "npm:28.1.8"],\
-            ["@types/node", "npm:18.7.3"],\
+            ["@types/node", "npm:18.19.56"],\
             ["@types/react", "npm:18.0.17"],\
             ["@types/react-dom", "npm:18.0.6"],\
             ["@types/react-router", "npm:5.1.18"],\
@@ -4338,10 +4338,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:18.7.3", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-18.7.3-88159f29e9-f51ed436a1.zip/node_modules/@types/node/",\
+        ["npm:18.19.56", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.19.56-bb4779d8df-2660aa2e50.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.7.3"]\
+            ["@types/node", "npm:18.19.56"],\
+            ["undici-types", "npm:5.26.5"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -16318,7 +16319,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/react", "virtual:ff3491ca13c0db64479831213970524da3dedbcb66eeb0f7a842949d3be434a6d7eebdf2fe36744559aa4d3adadecc3d8f13afc0ccc92f26e1fc5880a2d76a92#npm:13.3.0"],\
             ["@testing-library/user-event", "virtual:ff3491ca13c0db64479831213970524da3dedbcb66eeb0f7a842949d3be434a6d7eebdf2fe36744559aa4d3adadecc3d8f13afc0ccc92f26e1fc5880a2d76a92#npm:14.4.3"],\
             ["@types/jest", "npm:28.1.8"],\
-            ["@types/node", "npm:18.7.3"],\
+            ["@types/node", "npm:18.19.56"],\
             ["@types/react", "npm:18.0.17"],\
             ["@types/react-dom", "npm:18.0.6"],\
             ["@types/react-router", "npm:5.1.18"],\
@@ -16410,7 +16411,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tsconfig/node12", "npm:1.0.9"],\
             ["@tsconfig/node14", "npm:1.0.1"],\
             ["@tsconfig/node16", "npm:1.0.2"],\
-            ["@types/node", "npm:18.7.3"],\
+            ["@types/node", "npm:18.19.56"],\
             ["@types/swc__core", null],\
             ["@types/swc__wasm", null],\
             ["@types/typescript", null],\
@@ -16600,6 +16601,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["has-bigints", "npm:1.0.1"],\
             ["has-symbols", "npm:1.0.3"],\
             ["which-boxed-primitive", "npm:1.0.2"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["undici-types", [\
+        ["npm:5.26.5", {\
+          "packageLocation": "./.yarn/cache/undici-types-npm-5.26.5-de4f7c7bb9-3192ef6f3f.zip/node_modules/undici-types/",\
+          "packageDependencies": [\
+            ["undici-types", "npm:5.26.5"]\
           ],\
           "linkType": "HARD"\
         }]\
