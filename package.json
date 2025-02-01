@@ -48,7 +48,7 @@
     "@types/styled-components": "5.1.26",
     "@typescript-eslint/eslint-plugin": "^5.33.0",
     "@typescript-eslint/parser": "^5.33.0",
-    "eslint": "8.21.0",
+    "eslint": "8.57.1",
     "markdown": "0.5.0",
     "markdownlint-cli2": "^0.5.0",
     "prettier": "2.7.1",
