@@ -48,7 +48,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:8.21.0"],\
             ["markdown", "npm:0.5.0"],\
             ["markdownlint-cli2", "npm:0.5.0"],\
-            ["prettier", "npm:2.7.1"],\
+            ["prettier", "npm:2.8.8"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:ff3491ca13c0db64479831213970524da3dedbcb66eeb0f7a842949d3be434a6d7eebdf2fe36744559aa4d3adadecc3d8f13afc0ccc92f26e1fc5880a2d76a92#npm:18.2.0"],\
             ["react-router", "virtual:ff3491ca13c0db64479831213970524da3dedbcb66eeb0f7a842949d3be434a6d7eebdf2fe36744559aa4d3adadecc3d8f13afc0ccc92f26e1fc5880a2d76a92#npm:6.3.0"],\
@@ -14264,10 +14264,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["prettier", [\
-        ["npm:2.7.1", {\
-          "packageLocation": "./.yarn/cache/prettier-npm-2.7.1-d1f40f5e1a-55a4409182.zip/node_modules/prettier/",\
+        ["npm:2.8.8", {\
+          "packageLocation": "./.yarn/cache/prettier-npm-2.8.8-430828a36c-b49e409431.zip/node_modules/prettier/",\
           "packageDependencies": [\
-            ["prettier", "npm:2.7.1"]\
+            ["prettier", "npm:2.8.8"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -16329,7 +16329,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:8.21.0"],\
             ["markdown", "npm:0.5.0"],\
             ["markdownlint-cli2", "npm:0.5.0"],\
-            ["prettier", "npm:2.7.1"],\
+            ["prettier", "npm:2.8.8"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:ff3491ca13c0db64479831213970524da3dedbcb66eeb0f7a842949d3be434a6d7eebdf2fe36744559aa4d3adadecc3d8f13afc0ccc92f26e1fc5880a2d76a92#npm:18.2.0"],\
             ["react-router", "virtual:ff3491ca13c0db64479831213970524da3dedbcb66eeb0f7a842949d3be434a6d7eebdf2fe36744559aa4d3adadecc3d8f13afc0ccc92f26e1fc5880a2d76a92#npm:6.3.0"],\
